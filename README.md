@@ -1,6 +1,5 @@
 # Agatsuma
 No desc allowed
-![alt text](https://github.com/okuruu/Agatsuma/blob/master/Ribbons/maks.jpg)
 
 25 -10 - 2019
 
