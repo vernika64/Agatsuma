@@ -1,8 +1,3 @@
-# Agatsuma
-No desc allowed
-
-25 -10 - 2019
-
 ## Getting Started
 Project ambisius. Only $$$ allowed
 
