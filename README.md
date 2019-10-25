@@ -1,6 +1,6 @@
 # Agatsuma
 No desc allowed
-![alt text](https://github.com/okuruu/Agatsuma/blob/master/Resources/gmbr.jpg)
+![alt text](https://github.com/okuruu/Agatsuma/blob/master/Ribbons/maks.jpg)
 
 25 -10 - 2019
 
@@ -24,11 +24,14 @@ Pastikan ini semua udah keinstall ndek laptopmu
 * [Bootstrap](https://www.malasngoding.com/tag/tutorial-bootstrap-bahasa-indonesia-untuk-pemula/) - Belajar Bootstrap
 * [React](https://www.kodingindonesia.com/react-js-dan-installasi/) - Belajar React
 
-## Library - Online lebih baik daripada menambahkan didalam folder
+## Library - Online 
 Bootstrap :
 ```
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script 
 ```
-
 Datatable :
+```
+//cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css
+//cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js
+```
